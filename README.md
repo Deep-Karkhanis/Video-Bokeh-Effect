@@ -5,6 +5,8 @@ A CS663 Project
 *   [160050042] Rupesh ([**@rs9899**](https://github.com/rs9899))
 *   [160050016] Vinod Shekokar ([**@vinods07**](https://github.com/vinods07))
 
+The code adds Bokeh effect to a video which has not been captured using a special lens camera
+
 
 run the `run.ipynb` notebook to obtain the corresponding results.
 
